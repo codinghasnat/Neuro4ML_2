@@ -800,4 +800,6 @@ decoding_plot(network, spike_times, vel, vel_times)
 # 
 # With the spiking layer do you do worse, as well, or better? (There is no correct answer here, but if you can do much better let me know we might be able to write a paper on this.)
 
-
+# %%
+# Non Spiking Version
+decoding_plot(network, spike_times, vel, vel_times)
